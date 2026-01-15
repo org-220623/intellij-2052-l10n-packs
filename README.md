@@ -6,4 +6,8 @@
 
 ## 资源分支
 
-- [pycharm/253.29346.142](https://github.com/org-220623/intellij-2052-l10n-packs/tree/pycharm/253.29346.142)：[JAR 插件包](https://github.com/org-220623/intellij-2052-l10n-packs/releases/download/v253.29346.142-pycharm/localization-zh.jar)
+### PyCharm
+
+| 外部版本号 | 内部版本号 | 源码树 | JAR 语言插件包下载链接 |
+| -- | -- | -- | -- |
+| 2025.3.1.1 | 253.29346.308 | [pycharm/253.29346.308](https://github.com/org-220623/intellij-2052-l10n-packs/tree/pycharm/253.29346.308) | [点击下载](https://github.com/org-220623/intellij-2052-l10n-packs/releases/download/v253.29346.308-pycharm/localization-zh.jar) |
