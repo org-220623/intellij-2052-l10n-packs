@@ -11,3 +11,9 @@
 | 外部版本号 | 内部版本号 | 源码树 | JAR 语言插件包下载链接 |
 | -- | -- | -- | -- |
 | 2025.3.1.1 | 253.29346.308 | [pycharm/253.29346.308](https://github.com/org-220623/intellij-2052-l10n-packs/tree/pycharm/253.29346.308) | [点击下载](https://github.com/org-220623/intellij-2052-l10n-packs/releases/download/v253.29346.308-pycharm/localization-zh.jar) |
+
+### Intellij IDEA
+
+| 外部版本号 | 内部版本号 | 源码树 | JAR 语言插件包下载链接 |
+| -- | -- | -- | -- |
+| 2025.3.1.1 | 253.29346.308 | [idea/253.29346.308](https://github.com/org-220623/intellij-2052-l10n-packs/tree/idea/253.29346.308) | [点击下载](https://github.com/org-220623/intellij-2052-l10n-packs/releases/download/v253.29346.308-idea/localization-zh.jar) |
